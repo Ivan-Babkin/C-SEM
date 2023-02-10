@@ -1,0 +1,15 @@
+C:\Users\сервис\GeekBrain\C#_Sem01\bin\Debug\net7.0\C#_Sem01.exe
+C:\Users\сервис\GeekBrain\C#_Sem01\bin\Debug\net7.0\C#_Sem01.deps.json
+C:\Users\сервис\GeekBrain\C#_Sem01\bin\Debug\net7.0\C#_Sem01.runtimeconfig.json
+C:\Users\сервис\GeekBrain\C#_Sem01\bin\Debug\net7.0\C#_Sem01.dll
+C:\Users\сервис\GeekBrain\C#_Sem01\bin\Debug\net7.0\C#_Sem01.pdb
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\C#_Sem01.csproj.AssemblyReference.cache
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\C#_Sem01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\C#_Sem01.AssemblyInfoInputs.cache
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\C#_Sem01.AssemblyInfo.cs
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\C#_Sem01.csproj.CoreCompileInputs.cache
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\C#_Sem01.dll
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\refint\C#_Sem01.dll
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\C#_Sem01.pdb
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\C#_Sem01.genruntimeconfig.cache
+C:\Users\сервис\GeekBrain\C#_Sem01\obj\Debug\net7.0\ref\C#_Sem01.dll

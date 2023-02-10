@@ -1,0 +1,15 @@
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\Sem02.csproj.AssemblyReference.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\Sem02.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\Sem02.AssemblyInfoInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\Sem02.AssemblyInfo.cs
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\Sem02.csproj.CoreCompileInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\bin\Debug\net7.0\Sem02.exe
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\bin\Debug\net7.0\Sem02.deps.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\bin\Debug\net7.0\Sem02.runtimeconfig.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\bin\Debug\net7.0\Sem02.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\bin\Debug\net7.0\Sem02.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\Sem02.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\refint\Sem02.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\Sem02.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\Sem02.genruntimeconfig.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem02\obj\Debug\net7.0\ref\Sem02.dll
