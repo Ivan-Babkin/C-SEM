@@ -1,0 +1,15 @@
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\bin\Debug\net7.0\Sem03Task19.exe
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\bin\Debug\net7.0\Sem03Task19.deps.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\bin\Debug\net7.0\Sem03Task19.runtimeconfig.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\bin\Debug\net7.0\Sem03Task19.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\bin\Debug\net7.0\Sem03Task19.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\Sem03Task19.csproj.AssemblyReference.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\Sem03Task19.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\Sem03Task19.AssemblyInfoInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\Sem03Task19.AssemblyInfo.cs
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\Sem03Task19.csproj.CoreCompileInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\Sem03Task19.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\refint\Sem03Task19.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\Sem03Task19.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\Sem03Task19.genruntimeconfig.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task19\obj\Debug\net7.0\ref\Sem03Task19.dll

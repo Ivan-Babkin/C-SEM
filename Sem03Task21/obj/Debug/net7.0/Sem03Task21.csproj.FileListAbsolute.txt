@@ -1,0 +1,15 @@
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\bin\Debug\net7.0\Sem03Task21.exe
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\bin\Debug\net7.0\Sem03Task21.deps.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\bin\Debug\net7.0\Sem03Task21.runtimeconfig.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\bin\Debug\net7.0\Sem03Task21.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\bin\Debug\net7.0\Sem03Task21.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\Sem03Task21.csproj.AssemblyReference.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\Sem03Task21.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\Sem03Task21.AssemblyInfoInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\Sem03Task21.AssemblyInfo.cs
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\Sem03Task21.csproj.CoreCompileInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\Sem03Task21.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\refint\Sem03Task21.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\Sem03Task21.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\Sem03Task21.genruntimeconfig.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem03Task21\obj\Debug\net7.0\ref\Sem03Task21.dll
