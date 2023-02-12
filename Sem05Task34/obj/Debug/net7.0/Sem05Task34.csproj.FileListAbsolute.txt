@@ -1,0 +1,15 @@
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\bin\Debug\net7.0\Sem05Task34.exe
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\bin\Debug\net7.0\Sem05Task34.deps.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\bin\Debug\net7.0\Sem05Task34.runtimeconfig.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\bin\Debug\net7.0\Sem05Task34.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\bin\Debug\net7.0\Sem05Task34.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\Sem05Task34.csproj.AssemblyReference.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\Sem05Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\Sem05Task34.AssemblyInfoInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\Sem05Task34.AssemblyInfo.cs
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\Sem05Task34.csproj.CoreCompileInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\Sem05Task34.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\refint\Sem05Task34.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\Sem05Task34.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\Sem05Task34.genruntimeconfig.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem05Task34\obj\Debug\net7.0\ref\Sem05Task34.dll
