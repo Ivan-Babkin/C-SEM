@@ -1,0 +1,15 @@
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\bin\Debug\net7.0\Sem06Task43.exe
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\bin\Debug\net7.0\Sem06Task43.deps.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\bin\Debug\net7.0\Sem06Task43.runtimeconfig.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\bin\Debug\net7.0\Sem06Task43.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\bin\Debug\net7.0\Sem06Task43.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\Sem06Task43.csproj.AssemblyReference.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\Sem06Task43.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\Sem06Task43.AssemblyInfoInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\Sem06Task43.AssemblyInfo.cs
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\Sem06Task43.csproj.CoreCompileInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\Sem06Task43.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\refint\Sem06Task43.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\Sem06Task43.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\Sem06Task43.genruntimeconfig.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem06Task43\obj\Debug\net7.0\ref\Sem06Task43.dll
