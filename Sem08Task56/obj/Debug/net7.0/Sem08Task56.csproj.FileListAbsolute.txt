@@ -1,0 +1,15 @@
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\bin\Debug\net7.0\Sem08Task56.exe
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\bin\Debug\net7.0\Sem08Task56.deps.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\bin\Debug\net7.0\Sem08Task56.runtimeconfig.json
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\bin\Debug\net7.0\Sem08Task56.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\bin\Debug\net7.0\Sem08Task56.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\Sem08Task56.csproj.AssemblyReference.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\Sem08Task56.GeneratedMSBuildEditorConfig.editorconfig
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\Sem08Task56.AssemblyInfoInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\Sem08Task56.AssemblyInfo.cs
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\Sem08Task56.csproj.CoreCompileInputs.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\Sem08Task56.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\refint\Sem08Task56.dll
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\Sem08Task56.pdb
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\Sem08Task56.genruntimeconfig.cache
+D:\2022_GeekBrain_Бабкин\C#SEM\Sem08Task56\obj\Debug\net7.0\ref\Sem08Task56.dll
